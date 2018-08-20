@@ -1,2 +1,2 @@
-# Algos_Sedgewick
+# Two Data Structures/Algorithms every day...
 Algos &amp; Data Structures exercises from Robert Sedgewick book.
